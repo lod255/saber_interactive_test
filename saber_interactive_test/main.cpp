@@ -1,9 +1,3 @@
-/*
- Шамраев Андрей Евгеньевич
- 08.08.2023
- Затраченное время: 6ч
- */
-
 #include <iostream>
 #include<fstream>
 #include <sstream>
